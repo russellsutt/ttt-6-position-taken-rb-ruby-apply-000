@@ -1,3 +1,6 @@
-def position_taken?
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
+def position_taken?(board, index)
+  if 
   
 end
