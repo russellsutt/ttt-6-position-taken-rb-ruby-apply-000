@@ -1,1 +1,2 @@
-def 
+def position_taken?
+end
